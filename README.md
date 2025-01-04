@@ -1,4 +1,4 @@
-# FNP-Sales-Analysis-Dashboard-
+# FNP-Sales-Analysis-Dashboard (NS EXCEL)
 FNP Sales Analysis Dashboards 
 Problem Statement: Ferns and Petals Sales Analysis
 You have been given a dataset from FNP (Ferns and Petals) that specializes in sending gifts for
