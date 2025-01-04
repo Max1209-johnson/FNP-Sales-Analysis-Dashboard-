@@ -6,6 +6,8 @@ various occasions like Diwali, Raksha Bandhan, Holi, Valentine's Day, Birthdays,
 Anniversaries. The dataset contains details about the products, orders, customers, and relevant
 dates. Your task is to analyze this dataset to uncover key insights related to sales trends,
 customer behavior, and product performance.
+
+
 Create a dashboard and answer the following key business questions to help the company
 improve its sales strategy and optimize customer satisfaction:
 1. Total Revenue: Identify the overall revenue.
